@@ -29,15 +29,15 @@ Microsoft Dataverse is a cloud-based, low-code data platform that enables organi
 
 To start leveraging Microsoft Dataverse for your business, follow these essential configuration steps: 
 
-**Set Up an Environment:** Create a new environment in Microsoft Power Platform admin center, selecting the type (Trial, Production, or Sandbox) based on your needs. 
+**1. Set Up an Environment:** Create a new environment in Microsoft Power Platform admin center, selecting the type (Trial, Production, or Sandbox) based on your needs. 
 
-**Define Your Data Schema:** Utilize the Dataverse table designer to define your data schema, including creating custom tables and setting up relationships between them. 
+**2. Define Your Data Schema:** Utilize the Dataverse table designer to define your data schema, including creating custom tables and setting up relationships between them. 
 
-**Import Data:** Use Dataflows or the Data Import Wizard to import existing data into your Dataverse tables from various sources. 
+**3. Import Data:** Use Dataflows or the Data Import Wizard to import existing data into your Dataverse tables from various sources. 
 
-**Implement Security:** Configure data access permissions using security roles and access teams to ensure data is only accessible.
+**4. Implement Security:** Configure data access permissions using security roles and access teams to ensure data is only accessible.
 
-**Integrate with Applications:** Connect your Dataverse environment with Power Apps, Power Automate, Power BI, and other applications to build your solution. 
+**5. Integrate with Applications:** Connect your Dataverse environment with Power Apps, Power Automate, Power BI, and other applications to build your solution. 
 
 # Conclusion 
 
