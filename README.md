@@ -9,11 +9,11 @@ Microsoft Dataverse is a cloud-based, low-code data platform that enables organi
 
 + **Unified Data Model:** Dataverse offers a common data model that standardizes data across applications, making it easier to build, deploy, and manage applications. 
 
-**Rich Data Types and Relationships:** Supports a wide range of data types and allows for complex data relationships, enabling sophisticated application scenarios. 
++ **Rich Data Types and Relationships:** Supports a wide range of data types and allows for complex data relationships, enabling sophisticated application scenarios. 
 
-**Security and Compliance:** Built-in security features and compliance with global standards ensure data is securely managed and protected. 
++ **Security and Compliance:** Built-in security features and compliance with global standards ensure data is securely managed and protected. 
 
-**Integration with Microsoft Power Platform:** Seamless integration with Power Apps, Power Automate, Power BI, and Power Virtual Agents to create comprehensive business solutions. 
++ **Integration with Microsoft Power Platform:** Seamless integration with Power Apps, Power Automate, Power BI, and Power Virtual Agents to create comprehensive business solutions. 
 
 # Practical Use Cases 
 
