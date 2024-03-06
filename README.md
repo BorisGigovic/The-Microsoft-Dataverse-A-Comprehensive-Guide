@@ -35,7 +35,7 @@ To start leveraging Microsoft Dataverse for your business, follow these essentia
 
 **Import Data:** Use Dataflows or the Data Import Wizard to import existing data into your Dataverse tables from various sources. 
 
-**Implement Security:** Configure data access permissions using security roles and access teams to ensure data is only accessible by authorized users. 
+**Implement Security:** Configure data access permissions using security roles and access teams to ensure data is only accessible.
 
 **Integrate with Applications:** Connect your Dataverse environment with Power Apps, Power Automate, Power BI, and other applications to build your solution. 
 
@@ -43,4 +43,4 @@ To start leveraging Microsoft Dataverse for your business, follow these essentia
 
 Microsoft Dataverse stands as a transformative data platform that enables businesses to streamline data management and unlock new possibilities for application development and data analysis. By providing a robust, secure, and integrated environment, Dataverse facilitates the creation of innovative solutions that can drive efficiency and growth. 
 
-For organizations looking to harness the power of Microsoft Dataverse and other Microsoft technologies, Eccentrix offers a dedicated training to the topic. With a focus on practical skills and real-world applications, Eccentrix provides the training you need to successfully implement and manage Microsoft Dataverse and maximize its benefits for your business.
+For organizations looking to harness the power of Microsoft Dataverse and other Microsoft technologies, Eccentrix offers ([a dedicated training to the topic.]](https://www.eccentrix.ca/en/courses/microsoft/power-platform/microsoft-certified-power-platform-functional-consultant-associateby authorized users. )) With a focus on practical skills and real-world applications, Eccentrix provides the training you need to successfully implement and manage Microsoft Dataverse and maximize its benefits for your business.
